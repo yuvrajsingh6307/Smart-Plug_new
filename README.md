@@ -68,13 +68,6 @@
   <img src="images/ss34.jpeg" width="45%" />
 </p>
 
-<p align="center">
-  <img src="images/monitoring.png" width="45%" />
-  <img src="images/scheduling.png" width="45%" />
-</p>
-
-<p align="center"><i>📌 Replace images with your actual screenshots</i></p>
-
 <hr>
 
 <h2>⚙️ Installation & Setup</h2>
