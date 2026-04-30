@@ -1,4 +1,4 @@
-<h1 align="center">🔌 Smart Plug IoT Project</h1>
+<h1 align="center">🔌 Smart Plug </h1>
 
 <p align="center">
   Control appliances remotely, monitor power usage, and estimate energy cost in real-time ⚡
@@ -20,11 +20,11 @@
 
 <h2>🛠️ Tech Stack</h2>
 <ul>
-  <li><b>Hardware:</b> ESP32 / ESP8266, Relay Module, Current Sensor</li>
+  <li><b>Hardware:</b> ESP32, Relay Module, Current Sensor, Voltage sensor, registor, transistor, capacitor</li>
   <li><b>Programming:</b> MicroPython</li>
   <li><b>Protocols:</b> MQTT, HTTP</li>
   <li><b>Cloud:</b> Adafruit IO / IFTTT</li>
-  <li><b>Backend:</b> Flask (optional)</li>
+  <li><b>Backend:</b> Flask </li>
 </ul>
 
 <hr>
@@ -32,8 +32,40 @@
 <h2>📷 Project Screenshots</h2>
 
 <p align="center">
-  <img src="images/dashboard.png" width="45%" />
-  <img src="images/control.png" width="45%" />
+  <img src="images/ss1.png" width="45%" />
+  <img src="images/ss2.png" width="45%" />
+  <img src="images/ss3.png" width="45%" />
+  <img src="images/ss4.png" width="45%" />
+  <img src="images/ss5.png" width="45%" />
+  <img src="images/ss6.png" width="45%" />
+  <img src="images/ss7.png" width="45%" />
+  <img src="images/ss8.png" width="45%" />
+  <img src="images/ss9.png" width="45%" />
+  <img src="images/ss10.png" width="45%" />
+  <img src="images/ss11.png" width="45%" />
+  <img src="images/ss12.png" width="45%" />
+  <img src="images/ss13.png" width="45%" />
+  <img src="images/ss14.png" width="45%" />
+  <img src="images/ss15.png" width="45%" />
+  <img src="images/ss16.png" width="45%" />
+  <img src="images/ss17.png" width="45%" />
+  <img src="images/ss18.png" width="45%" />
+  <img src="images/ss19.png" width="45%" />
+  <img src="images/ss20.png" width="45%" />
+  <img src="images/ss21.png" width="45%" />
+  <img src="images/ss22.png" width="45%" />
+  <img src="images/ss23.png" width="45%" />
+  <img src="images/ss24.png" width="45%" />
+  <img src="images/ss25.png" width="45%" />
+  <img src="images/ss26.png" width="45%" />
+  <img src="images/ss27.png" width="45%" />
+  <img src="images/ss28.png" width="45%" />
+  <img src="images/ss29.png" width="45%" />
+  <img src="images/ss30.png" width="45%" />
+  <img src="images/ss31.png" width="45%" />
+  <img src="images/ss32.png" width="45%" />
+  <img src="images/ss33.png" width="45%" />
+  <img src="images/ss34.png" width="45%" />
 </p>
 
 <p align="center">
