@@ -50,22 +50,22 @@
   <img src="images/ss16.png" width="45%" />
   <img src="images/ss17.png" width="45%" />
   <img src="images/ss18.png" width="45%" />
-  <img src="images/ss19.png" width="45%" />
-  <img src="images/ss20.png" width="45%" />
-  <img src="images/ss21.png" width="45%" />
-  <img src="images/ss22.png" width="45%" />
-  <img src="images/ss23.png" width="45%" />
-  <img src="images/ss24.png" width="45%" />
-  <img src="images/ss25.png" width="45%" />
-  <img src="images/ss26.png" width="45%" />
-  <img src="images/ss27.png" width="45%" />
-  <img src="images/ss28.png" width="45%" />
-  <img src="images/ss29.png" width="45%" />
-  <img src="images/ss30.png" width="45%" />
-  <img src="images/ss31.png" width="45%" />
-  <img src="images/ss32.png" width="45%" />
-  <img src="images/ss33.png" width="45%" />
-  <img src="images/ss34.png" width="45%" />
+  <img src="images/ss19.jpeg" width="45%" />
+  <img src="images/ss20.jpeg" width="45%" />
+  <img src="images/ss21.jpeg" width="45%" />
+  <img src="images/ss22.jpeg" width="45%" />
+  <img src="images/ss23.jpeg" width="45%" />
+  <img src="images/ss24.jpeg" width="45%" />
+  <img src="images/ss25.jpeg" width="45%" />
+  <img src="images/ss26.jpeg" width="45%" />
+  <img src="images/ss27.jpeg" width="45%" />
+  <img src="images/ss28.jpeg" width="45%" />
+  <img src="images/ss29.jpeg" width="45%" />
+  <img src="images/ss30.jpeg" width="45%" />
+  <img src="images/ss31.jpeg" width="45%" />
+  <img src="images/ss32.jpeg" width="45%" />
+  <img src="images/ss33.jpeg" width="45%" />
+  <img src="images/ss34.jpeg" width="45%" />
 </p>
 
 <p align="center">
